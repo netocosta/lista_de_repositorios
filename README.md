@@ -24,7 +24,7 @@ Repositório principal para organizar todos os repositórios existentes.
 * [Somar Avaliações](https://github.com/netocosta/atividades-python/blob/main/somar_avaliacoes.py)
 * [Quiz](https://github.com/netocosta/atividades-python/tree/main/quiz)
 
-## 🤵🏻‍♂️ Redes Sociais
+## 🗣️ Redes Sociais
 
 * [LinkedIn](https://www.linkedin.com/in/netocostajp/)
 * [Youtube](https://www.youtube.com/c/NetoCostajp)
