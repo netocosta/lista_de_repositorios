@@ -32,4 +32,4 @@ Repositório principal para organizar todos os repositórios existentes.
 * [Facebook](https://www.facebook.com/netocostajp/)
 
 ---
-Por [Neto Costa](https://github.com/netocosta/) 😊
+Por [Neto Costa](https://github.com/netocosta/)
