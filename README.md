@@ -66,9 +66,9 @@ Repositório principal para organizar todos os repositórios existentes.
 * [Instalando o Wordpress em nosso servidor](https://www.youtube.com/watch?v=4Xj8QzlNxHg)
 * [UTILITÁRIOS - Criação de Ambiente de desenvolvimento com XAMPP, WAMP ou Laragon. VS Code e Notepad++](https://www.youtube.com/watch?v=ijpfs2sVX2U)
 
-## 🚀 Catálogo do Youtube
+## 🚀 Análise e Desenvolvimento de Software - Cruzeiro do Sul/Unipê
 
-* [Exemplos da faculdade de Análise e Desenvolvimento de Software](https://github.com/netocosta/faculdade-ads/)
+* [Exemplos de Tecnica de Desenvolvimento de Algoritmos](https://github.com/netocosta/faculdade-ads/tree/master/Tecnicas%20de%20Desenvolvimento%20de%20Algoritmos)
 
 ## 🗣️ Redes Sociais
 
