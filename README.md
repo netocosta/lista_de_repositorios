@@ -66,6 +66,10 @@ Repositório principal para organizar todos os repositórios existentes.
 * [Instalando o Wordpress em nosso servidor](https://www.youtube.com/watch?v=4Xj8QzlNxHg)
 * [UTILITÁRIOS - Criação de Ambiente de desenvolvimento com XAMPP, WAMP ou Laragon. VS Code e Notepad++](https://www.youtube.com/watch?v=ijpfs2sVX2U)
 
+## 🚀 Catálogo do Youtube
+
+* [Exemplos da faculdade de Análise e Desenvolvimento de Software](https://github.com/netocosta/faculdade-ads/)
+
 ## 🗣️ Redes Sociais
 
 * [LinkedIn](https://www.linkedin.com/in/netocostajp/)
