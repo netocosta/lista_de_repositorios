@@ -26,6 +26,17 @@ Repositório principal para organizar todos os repositórios existentes.
 
 ## 🚀 Catálogo do Youtube
 
+* [ALGORITMOS - Introdução usando Fluxograma, VisualG (portugol) e Python](https://youtu.be/-phJ_f02AsM)
+* [ALGORITMOS - Variaveis e Operadores](https://youtu.be/GiSx0zbJFHc)
+* [ALGORITMOS - Estrutura de Repeticao](https://youtu.be/dOqkY5WON8Y)
+* [ALGORITMOS - Estrutura Condicional](https://youtu.be/XxNeNtcu-uc)
+* [ALGORITMOS - Sub-Rotinas (Procedimentos e Funções)](https://youtu.be/eYhfZAL-eAQ)
+* [ALGORITMOS - Vetores e Matrizes](https://youtu.be/Z72azOIwRVs)
+* [JavaScript - Criando uma To Do List (Lista de Tarefas) - HTML, CSS, JS, localStorage](https://www.youtube.com/watch?v=woRPIMouC1k)
+* [JavaScript - Consumindo API com Fetch (Parte 1)](https://www.youtube.com/watch?v=WjHmkTSSKRU)
+* [JavaScript - Consumindo API com Fetch (Parte 2)](https://www.youtube.com/watch?v=IQ6Oj7lgW3g)
+* [JavaScript - Consumindo API com Fetch (Parte 3)](https://www.youtube.com/watch?v=HAPW9FDgVqU)
+* [Instalando o Wordpress em nosso servidor](https://www.youtube.com/watch?v=4Xj8QzlNxHg)
 * [PHP - API sem usar framework (Parte 1 - Base)](https://www.youtube.com/watch?v=GWHaatWwoOY)
 * [PHP - API sem usar framework (Parte 2 - GET)](https://www.youtube.com/watch?v=ZMyHO2iCwBA)
 * [PHP - API sem usar framework (Parte 3 - POST)](https://www.youtube.com/watch?v=1tmuDpUcICs)
@@ -59,11 +70,6 @@ Repositório principal para organizar todos os repositórios existentes.
 * [PHP - MINI CURSO PDO - 15. Segurança contra SQL Injection e XSS](https://www.youtube.com/watch?v=yPnqAOgX_Js)
 * [PHP - PDOException não funciona? Agora vai funcionar!](https://www.youtube.com/watch?v=aM6C9B9wh34)
 * [PHP - Upload de Arquivo e Leitura de XML (NF-e)](https://www.youtube.com/watch?v=tj6BKHAr7yg)
-* [JavaScript - Criando uma To Do List (Lista de Tarefas) - HTML, CSS, JS, localStorage](https://www.youtube.com/watch?v=woRPIMouC1k)
-* [JavaScript - Consumindo API com Fetch (Parte 1)](https://www.youtube.com/watch?v=WjHmkTSSKRU)
-* [JavaScript - Consumindo API com Fetch (Parte 2)](https://www.youtube.com/watch?v=IQ6Oj7lgW3g)
-* [JavaScript - Consumindo API com Fetch (Parte 3)](https://www.youtube.com/watch?v=HAPW9FDgVqU)
-* [Instalando o Wordpress em nosso servidor](https://www.youtube.com/watch?v=4Xj8QzlNxHg)
 * [UTILITÁRIOS - Criação de Ambiente de desenvolvimento com XAMPP, WAMP ou Laragon. VS Code e Notepad++](https://www.youtube.com/watch?v=ijpfs2sVX2U)
 
 ## 🚀 Análise e Desenvolvimento de Software - Cruzeiro do Sul/Unipê
