@@ -15,6 +15,7 @@ Repositório principal para organizar todos os repositórios existentes.
 
 ## 🚀 JavaScript
 
+* [Painel de Criptomoedas](https://github.com/netocosta/painel_de_criptos) 
 * [Todo List](https://github.com/netocosta/todolist_js)
 
 ## 🚀 Python
