@@ -71,6 +71,7 @@ Repositório principal para organizar todos os repositórios existentes.
 * [PHP - MINI CURSO PDO - 15. Segurança contra SQL Injection e XSS](https://www.youtube.com/watch?v=yPnqAOgX_Js)
 * [PHP - PDOException não funciona? Agora vai funcionar!](https://www.youtube.com/watch?v=aM6C9B9wh34)
 * [PHP - Upload de Arquivo e Leitura de XML (NF-e)](https://www.youtube.com/watch?v=tj6BKHAr7yg)
+* [PYTHON - Convertendo PDF para Imagem usando o pdf2image](https://www.youtube.com/watch?v=je30cDOzg0s)
 * [UTILITÁRIOS - Criação de Ambiente de desenvolvimento com XAMPP, WAMP ou Laragon. VS Code e Notepad++](https://www.youtube.com/watch?v=ijpfs2sVX2U)
 
 ## 🚀 Análise e Desenvolvimento de Software - Cruzeiro do Sul/Unipê
