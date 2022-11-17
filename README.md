@@ -20,6 +20,7 @@ Repositório principal para organizar todos os repositórios existentes.
 
 ## 🚀 Python
 
+* [Consulta NFC-e da PB](https://github.com/netocosta/consulta_nfce_pb)
 * [Média de Notas](https://github.com/netocosta/atividades-python/blob/main/media_notas.py)
 * [Procurar Imagem na Tela](https://github.com/netocosta/atividades-python/tree/main/find_icon_in_screen)
 * [Somar Avaliações](https://github.com/netocosta/atividades-python/blob/main/somar_avaliacoes.py)
