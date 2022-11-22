@@ -8,6 +8,7 @@ Repositório principal para organizar todos os repositórios existentes.
 * [Consumindo API do The Movie Database (TMDB)](https://github.com/netocosta/consumindo_api_tmdb)
 * [Leitura de XML](https://github.com/netocosta/xmlnfe)
 * [Mini Curso PDO](https://github.com/netocosta/mini_curso_pdo)
+* [Painel de Criptomoedas](https://github.com/netocosta/painel_cripto_php) 
 * [Painel de Monitoramento](https://github.com/netocosta/monitoramento)
 * [Reescrever arquivo XML](https://github.com/netocosta/reescrever_arquivo_xml)
 * [SSHClass](https://github.com/netocosta/php-ssh-class)
@@ -15,7 +16,7 @@ Repositório principal para organizar todos os repositórios existentes.
 
 ## 🚀 JavaScript
 
-* [Painel de Criptomoedas](https://github.com/netocosta/painel_de_criptos) 
+* [Painel de Criptomoedas](https://github.com/netocosta/painel_cripto_js) 
 * [Todo List](https://github.com/netocosta/todolist_js)
 
 ## 🚀 Python
