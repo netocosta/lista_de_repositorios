@@ -78,7 +78,8 @@ Repositório principal para organizar todos os repositórios existentes.
 
 ## 🚀 Análise e Desenvolvimento de Software - Cruzeiro do Sul/Unipê
 
-* [Exemplos de Tecnica de Desenvolvimento de Algoritmos (VisualG - Portugol)](https://github.com/netocosta/faculdade-ads/tree/master/Tecnicas%20de%20Desenvolvimento%20de%20Algoritmos)
+* [Tecnica de Desenvolvimento de Algoritmos](https://github.com/netocosta/faculdade-ads/tree/master/Tecnicas%20de%20Desenvolvimento%20de%20Algoritmos)
+* [Programação Orientada a Objeto](https://github.com/netocosta/faculdade-ads/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objeto)
 
 ## 🗣️ Redes Sociais
 
